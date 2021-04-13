@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+background-color:#000;
+}
+
+#wrapper {
+	background-color: #fff;
+	width: 750px;
+}
+
+#green {
+	background-color: #000 ;
+	width: 600px;
+	height: 450px;
+	float:left;
+	margin-left: 75px;
+	margin-top: 175px;
+}
+
+#red {
+	background-color: #000 ;
+	width: 600px;
+	height: 450px;
+	float:left;
+	margin-left: 75px;
+	margin-top: 50px;
+	margin-bottom: 175px;
+}
